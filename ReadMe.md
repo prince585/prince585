@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prince Verma
 
-### **Third-year CSE Student | Front-end Developer | Learning Full-stack Java**
+### **Third-year CSE Student | Learning Full-stack Java**
 
 📍 Madhya Pradesh, India  
 📧 **Email:** princeverma.codes@gmail.com  
@@ -27,7 +27,7 @@
 ---
 
 ## 📄 Resume
-👉 [Download Resume](./Prince_Verma_Intern_Resume.pdf.pdf)
+👉 [Download Resume](./Prince_Verma_Intern_Resume.pdf)
 
 ---
 
