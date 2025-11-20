@@ -12,7 +12,7 @@
 ## 🚀 About Me
 - 🧑‍💻 Passionate about building clean and responsive websites  
 - 🌱 Currently learning **Java + DSA**  
-- ⚙️ Goal: Become a **Full-stack Java Developer**  
+- ⚙️ Goal: Become a **Full-stack Java Developer** 
 - ⚡ Interests: Anime, novels, One Piece, UI design  
 
 ---
