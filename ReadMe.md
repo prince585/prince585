@@ -1,136 +1,152 @@
 <div align="center">
-  <h1><b>></b> 𝗛𝗶! 𝗜'𝗺 𝗣𝗿𝗶𝗻𝗰𝗲.</h1>
-  <h2><b>Java Enthusiast • Backend Development Learner • CSE Student</b></h2>
-</div>
 
-<table>
-<tr>
+# Hi there, I'm Prince Verma 👋
+### ☕ Java Backend Developer · Final-Year CSE Student · Open Source Contributor
 
-<h2>
-<img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/>
-𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
-</h2>
-
-<h3>𝗜'𝗺 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴</h3>
-
-<div align="start">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1100&color=00D9FF&center=true&vCenter=true&width=650&lines=Spring+Boot+for+Backend+Development;React+for+Modern+Web+Apps;MongoDB+and+MySQL;Data+Structures+and+Algorithms" />
-</div>
-
-<h3>I'm a <b>3rd Year CSE Student</b> focused on building backend applications.</h3>
-
-<div>
-<ul>
-  <li> Learning <b>Spring Boot</b> and REST API development.</li>
-  <li> Building applications using <b>Java</b>.</li>
-  <li> Exploring <b>React</b> for modern web interfaces.</li>
-  <li> Learning <b>MongoDB</b> and <b>MySQL</b>.</li>
-  <li> Practicing <b>Data Structures & Algorithms</b>.</li>
-</ul>
-</div>
-
-</tr>
-</table>
-
-<br>
-
-<h2 align="center">
-<div align="center" style="margin: 40px 0;">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&repeat=false&duration=1&color=00D9FF&center=true&vCenter=true&width=600&lines=My+Learning+Journey"/>
-</div>
-</h2>
-
-```javascript
-const journey = [
-  {
-    year: 2023,
-    title: "Programming Fundamentals",
-    skills: ["C", "C++", "Problem Solving"],
-    description: "Started Computer Science journey"
-  },
-  {
-    year: 2024,
-    title: "Web Development",
-    skills: ["HTML", "CSS", "JavaScript", "Git"],
-    description: "Learned web development basics"
-  },
-  {
-    year: 2025,
-    title: "Java Development",
-    skills: ["Java", "OOP", "GitHub"],
-    description: "Focused on Java programming"
-  },
-  {
-    year: 2026,
-    title: "Backend Development",
-    skills: ["Spring Boot", "React", "Databases"],
-    description: "Building backend projects and APIs"
-  }
-];
-```
-
-<br>
-
-<div align="center">
-<h1>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀, 𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀</h1>
-<table style="margin: 5px; border-radius: 18px; border: 2.5px solid #00D9FF; overflow: hidden;">
- <tr>
-    <td><b style="font-size:30px">I Have</b></td>
-    <td><b style="font-size:30px">I'm Learning</b></td>
-    <td><b style="font-size:30px">Building With</b></td>
- </tr>
- <tr>
-    <td>
-        <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github&perline=3" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=spring,react,mongodb,mysql,docker,maven&perline=3" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java,spring,mongodb,react&perline=2" />
-    </td>
- </tr>
-</table>
-</div>
-
-<br>
-
-<h1 align="center">𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲</h1>
-<div align="center">
-  <a href="https://www.linkedin.com/in/prince-verma-b7a2b12b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/prince585" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://x.com/prinxeverma" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:princeverma.codes@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/919993285874">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</div>
-
-<br>
-
-<h2 align="center">My Down Time</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+  <em>"Better Code, Brighter Tomorrow"</em>
 </p>
 
-<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-bytheprince.me-d97736?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bytheprince.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prince--verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-verma-b7a2b12b0/)
+[![Email](https://img.shields.io/badge/Email-princeverma.codes%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princeverma.codes@gmail.com)
+[![GitHub Streak](https://img.shields.io/badge/Daily_Streak-Active-2e7d32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prince585)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prince585&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 </div>
 
-<br>
+---
+
+### 👨‍💻 About Me
+
+I'm a final-year Computer Science undergraduate at **Mahakal Institute of Technology and Management, Ujjain** (2023 – 2027), focused on **Java backend engineering** and building reliable, scalable web services.
+
+- 🎓 **Undergraduate Focus:** Core Java, Object-Oriented Design (OOP), Data Structures & Algorithms, and relational database systems.
+- 🛠️ **Current Engineering Work:** Designing RESTful microservices with **Spring Boot**, implementing clean business logic, and practicing schema normalization.
+- 🌱 **Eager to Learn & Contribute:** Actively seeking **software engineering and backend internships** where I can contribute clean, maintainable code and learn from experienced engineering teams.
+- 🎯 **Milestone:** Google *The Big Code 2026* Round 1 Qualifier (Top 15,000 computer science students in India).
+
+---
+
+### 🛠️ Technical Stack & Tools
+
+<table>
+  <tr>
+    <td width="20%"><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend & APIs</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring MVC" />
+      <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="RESTful APIs" />
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend (Supporting)</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>DevOps & Tooling</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Docker_(Basics)-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Engineering Projects
+
+#### 1. [RentWheels – Vehicle Rental Management & Billing System](https://github.com/prince585/Rent-A-Wheel) *(Flagship)*
+> **Stack:** Java 21 · Spring Boot · Spring Data MongoDB · RESTful APIs · Postman
+- Full-stack rental engine designed to eliminate double-booking conflicts and handle dynamic per-minute billing based on vehicle hourly rates.
+- Strict OOP domain abstraction (`Vehicle` base class extended by `Car` and `Bike` hierarchies) with centralized exception handling and validation.
+- Comprehensive REST APIs tested end-to-end via Postman collections.
+
+#### 2. [EcoTracker – Smart Municipality Waste Management](https://github.com/prince585/MinorProject-II)
+> **Stack:** Node.js · Express · MongoDB Atlas · Leaflet Geospatial · JWT Auth
+- Led a 4-member student team developing real-time municipal vehicle tracking and waste scheduling.
+- Implemented role-based access control (RBAC) across Administrator, Driver, and Citizen portals.
+- Integrated interactive geospatial route rendering with Leaflet maps.
+- 🔗 **Live Demo:** [sustainability-indol-two.vercel.app](https://sustainability-indol-two.vercel.app/)
+
+#### 3. [Google Store Clone – E-Commerce Platform](https://github.com/prince585/google-store-clone-minor-project)
+> **Stack:** React · TypeScript · Tailwind CSS · JWT Authentication
+- Responsive e-commerce interface inspired by Google Store with tokenized authentication, route protection, and persistent cart state.
+- 🔗 **Live Demo:** [google-store-clone-minor-project.vercel.app](https://google-store-clone-minor-project.vercel.app/)
+
+#### 4. [Banking App – Transactional CLI Core](https://github.com/princecodes/BankingApp)
+> **Stack:** Core Java · OOP · Java Collections Framework · CLI
+- Console-based banking core demonstrating atomic debit/credit operations, thread-safe balance simulations, and pure OOP principles with zero external ORM dependencies.
+
+---
+
+### 🌐 Open Source Contributions
+
+- **[FloCafe POS](https://github.com/FreeOpenSourcePOS/FloCafe)** (Free Open-Source POS System)
+  - **Merged PR [#747](https://github.com/FreeOpenSourcePOS/FloCafe/pull/747):** Fixed standalone server app dark-mode accessibility and color token contrast across login and receipt drawers; resolved flaky Electron E2E test runs with unified role-token helpers (14/14 automated QA tests passed).
+
+---
+
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=100&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prince585&show_icons=true&theme=vue&count_private=true&hide_border=true&title_color=d97736&icon_color=d97736&text_color=5c5852&bg_color=00000000" alt="Prince's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince585&layout=compact&theme=vue&hide_border=true&title_color=d97736&text_color=5c5852&bg_color=00000000" alt="Top Languages" height="165" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince585&theme=vue&hide_border=true&ring=d97736&fire=d97736&currStreakLabel=d97736&background=00000000&sideLabels=5c5852&dates=878076" alt="Prince's GitHub Streak" />
+</p>
+
+---
+
+### 📜 Verified Credentials
+
+- **Learn Programming with Java – An Interactive Way** — *Infosys Springboard*
+- **Java Object Oriented Programming (OOP)** — *Udemy*
+- **GenAI Job Simulation** — *BCG X / Forage*
+- **Responsive Web Design** — *freeCodeCamp*
+
+---
+
+### 📬 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Website-bytheprince.me-141312?style=flat-square&logo=google-chrome&logoColor=white)](https://bytheprince.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prince_Verma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-verma-b7a2b12b0/)
+[![GitHub](https://img.shields.io/badge/GitHub-prince585-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prince585)
+[![Email](https://img.shields.io/badge/Email-princeverma.codes%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:princeverma.codes@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-prince585-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1078666303105138698)
+[![X (Twitter)](https://img.shields.io/badge/X-@prinxeverma-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/prinxeverma)
+
+<br/>
+
+<sub>Crafted with passion for clean Java backend development · © 2026 Prince Verma</sub>
+
 </div>
