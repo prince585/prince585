@@ -9,6 +9,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bytheprince.me-d97736?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bytheprince.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prince--verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-verma-b7a2b12b0/)
+[![Instagram](https://img.shields.io/badge/Instagram-@__prince__verma1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_prince_verma1/)
 [![Email](https://img.shields.io/badge/Email-princeverma.codes%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princeverma.codes@gmail.com)
 [![GitHub Streak](https://img.shields.io/badge/Daily_Streak-Active-2e7d32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prince585)
 
@@ -88,27 +89,29 @@ I'm a final-year Computer Science undergraduate at **Mahakal Institute of Techno
 - Comprehensive REST APIs tested end-to-end via Postman collections.
 
 #### 2. [EcoTracker – Smart Municipality Waste Management](https://github.com/prince585/MinorProject-II)
-> **Stack:** Node.js · Express · MongoDB Atlas · Leaflet Geospatial · JWT Auth
-- Led a 4-member student team developing real-time municipal vehicle tracking and waste scheduling.
+> **Stack:** Next.js · TypeScript · MongoDB Atlas · Leaflet Geospatial
+- Led a 4-member student team developing municipal vehicle tracking and waste scheduling.
 - Implemented role-based access control (RBAC) across Administrator, Driver, and Citizen portals.
 - Integrated interactive geospatial route rendering with Leaflet maps.
 - 🔗 **Live Demo:** [sustainability-indol-two.vercel.app](https://sustainability-indol-two.vercel.app/)
 
-#### 3. [Google Store Clone – E-Commerce Platform](https://github.com/prince585/google-store-clone-minor-project)
-> **Stack:** React · TypeScript · Tailwind CSS · JWT Authentication
-- Responsive e-commerce interface inspired by Google Store with tokenized authentication, route protection, and persistent cart state.
+#### 3. [Google Store Clone – E-Commerce Interface](https://github.com/prince585/google-store-clone-minor-project)
+> **Stack:** HTML5 · CSS3 · JavaScript
+- Front-end store interface mockup inspired by Google Store featuring product catalog browsing, interactive cart state, and checkout preview.
 - 🔗 **Live Demo:** [google-store-clone-minor-project.vercel.app](https://google-store-clone-minor-project.vercel.app/)
 
-#### 4. [Banking App – Transactional CLI Core](https://github.com/princecodes/BankingApp)
-> **Stack:** Core Java · OOP · Java Collections Framework · CLI
-- Console-based banking core demonstrating atomic debit/credit operations, thread-safe balance simulations, and pure OOP principles with zero external ORM dependencies.
+#### 4. [Banking App – Transactional CLI Core](https://github.com/prince585/BankingApp)
+> **Stack:** Core Java · OOP Fundamentals · CLI
+- Interactive console application handling simulated deposits, withdrawals, and balance inquiries with input validation and clean control flow in Core Java.
 
 ---
 
 ### 🌐 Open Source Contributions
 
+- **[Sprig JVM Language](https://github.com/ColinHouse/Sprig)** (Statically typed JVM programming language designed to be agent-friendly)
+  - **Merged PR [#192](https://github.com/ColinHouse/Sprig/pull/192):** Enhanced parser error recovery in `ParserFrontend.java` to intercept missing explicit type annotations on class field declarations, adding user-friendly syntax diagnostic hints and automated Python regression tests.
 - **[FloCafe POS](https://github.com/FreeOpenSourcePOS/FloCafe)** (Free Open-Source POS System)
-  - **Merged PR [#747](https://github.com/FreeOpenSourcePOS/FloCafe/pull/747):** Fixed standalone server app dark-mode accessibility and color token contrast across login and receipt drawers; resolved flaky Electron E2E test runs with unified role-token helpers (14/14 automated QA tests passed).
+  - **Merged PR [#747](https://github.com/FreeOpenSourcePOS/FloCafe/pull/747):** Resolved multi-PR git merge conflicts across 3 concurrent pull requests, refactored 7+ UI surfaces to semantic theme tokens for dark-mode readability, and stabilized Electron E2E test suites with 100% test pass rate.
 
 ---
 
@@ -140,6 +143,7 @@ I'm a final-year Computer Science undergraduate at **Mahakal Institute of Techno
 
 [![Portfolio](https://img.shields.io/badge/Website-bytheprince.me-141312?style=flat-square&logo=google-chrome&logoColor=white)](https://bytheprince.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prince_Verma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-verma-b7a2b12b0/)
+[![Instagram](https://img.shields.io/badge/Instagram-@__prince__verma1-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_prince_verma1/)
 [![GitHub](https://img.shields.io/badge/GitHub-prince585-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prince585)
 [![Email](https://img.shields.io/badge/Email-princeverma.codes%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:princeverma.codes@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-prince585-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1078666303105138698)
