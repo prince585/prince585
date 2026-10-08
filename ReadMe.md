@@ -107,6 +107,8 @@ I'm a final-year Computer Science undergraduate at **Mahakal Institute of Techno
 
 ### 🌐 Open Source Contributions
 
+- **[Mystic Crypt UI](https://github.com/astrapi69/mystic-crypt-ui)** (Java Cryptographic Desktop Application)
+  - **Merged PR [#529](https://github.com/astrapi69/mystic-crypt-ui/pull/529):** Resolved filesystem temp directory leakage in `AbstractUiTest` teardown by implementing recursive deletion via Java NIO `Files.walkFileTree` and `SimpleFileVisitor`, ensuring test isolation and clean system property restoration.
 - **[Sprig JVM Language](https://github.com/ColinHouse/Sprig)** (Statically typed JVM programming language designed to be agent-friendly)
   - **Merged PR [#192](https://github.com/ColinHouse/Sprig/pull/192):** Enhanced parser error recovery in `ParserFrontend.java` to intercept missing explicit type annotations on class field declarations, adding user-friendly syntax diagnostic hints and automated Python regression tests.
 - **[FloCafe POS](https://github.com/FreeOpenSourcePOS/FloCafe)** (Free Open-Source POS System)
