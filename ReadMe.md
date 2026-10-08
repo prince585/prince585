@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prince--verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-verma-b7a2b12b0/)
 [![Instagram](https://img.shields.io/badge/Instagram-@__prince__verma1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_prince_verma1/)
 [![Email](https://img.shields.io/badge/Email-princeverma.codes%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princeverma.codes@gmail.com)
-[![GitHub Streak](https://img.shields.io/badge/Daily_Streak-Active-2e7d32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prince585)
 
 </div>
 
@@ -34,7 +33,7 @@ I'm a final-year Computer Science undergraduate at **Mahakal Institute of Techno
   <tr>
     <td width="20%"><strong>Languages</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -83,7 +82,7 @@ I'm a final-year Computer Science undergraduate at **Mahakal Institute of Techno
 ### 🚀 Featured Engineering Projects
 
 #### 1. [RentWheels – Vehicle Rental Management & Billing System](https://github.com/prince585/Rent-A-Wheel) *(Flagship)*
-> **Stack:** Java 21 · Spring Boot · Spring Data MongoDB · RESTful APIs · Postman
+> **Stack:** Java · Spring Boot · Spring Data MongoDB · RESTful APIs · Postman
 - Full-stack rental engine designed to eliminate double-booking conflicts and handle dynamic per-minute billing based on vehicle hourly rates.
 - Strict OOP domain abstraction (`Vehicle` base class extended by `Car` and `Bike` hierarchies) with centralized exception handling and validation.
 - Comprehensive REST APIs tested end-to-end via Postman collections.
@@ -121,10 +120,6 @@ I'm a final-year Computer Science undergraduate at **Mahakal Institute of Techno
   <img src="https://github-readme-stats.vercel.app/api?username=prince585&show_icons=true&theme=vue&count_private=true&hide_border=true&title_color=d97736&icon_color=d97736&text_color=5c5852&bg_color=00000000" alt="Prince's GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince585&layout=compact&theme=vue&hide_border=true&title_color=d97736&text_color=5c5852&bg_color=00000000" alt="Top Languages" height="165" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince585&theme=vue&hide_border=true&ring=d97736&fire=d97736&currStreakLabel=d97736&background=00000000&sideLabels=5c5852&dates=878076" alt="Prince's GitHub Streak" />
-</p>
 
 ---
 
